@@ -7,23 +7,22 @@ Building data pipelines and analytics dashboards at Wells Fargo, automating comp
 Data engineering projects, ETL pipeline optimization, business intelligence solutions, and open-source analytics tools for finance and insurance sectors
 
 🆘 **I'm looking for help with**  
-Advanced SQL optimization techniques, real-time data streaming architectures, and best practices for building scalable analytics platforms in European markets
+Advanced SQL optimization techniques, real-time data streaming architectures, and best practices for building scalable analytics platforms
 
 📚 **I'm currently learning**  
-dbt (data build tool) for analytics engineering, advanced Tableau dashboard design, Apache Airflow for workflow orchestration, and Dutch business culture for my upcoming relocation to Netherlands 🇳🇱
+dbt (data build tool) for analytics engineering, advanced Tableau dashboard design, Apache Airflow for workflow orchestration.
 
 💬 **Ask me about**  
 SQL query optimization, Python data pipelines, building executive dashboards, ETL workflows, cloud data warehousing (BigQuery, Snowflake), Tableau/Power BI visualizations, or insurance/actuarial analytics
 
 ⚡ **Fun fact**  
-Solo traveler, history buff, and Medium writer who applies the same curiosity to ancient civilizations as I do to messy datasets — currently preparing for European data adventures! 🚲🗺️
+Solo traveler, history buff, and Medium writer who applies the same curiosity to ancient civilizations as I do to messy datasets currently preparing for data adventures! 🚲🗺️
 
 ---
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/brahmi-rathod) 
 [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@brahmirathod) 
-[![Bluesky](https://img.shields.io/badge/bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=%23FFFFFF)](https://bsky.app/profile/brahmirathodd) 
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rathodbrahmii@gmail.com)
 
 ---
